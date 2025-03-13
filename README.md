@@ -75,8 +75,5 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 *   LinkedIn: [CONNECT](https://www.linkedin.com/in/vardhan-yadav-58498324a)
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VardhanYadav&show_icons=true&theme=dark)](https://github.com/VardhanYadav)
 
 ---
