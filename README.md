@@ -55,9 +55,9 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   Built with HTML, CSS, and JavaScript, leveraging the TMDb API.
 *   **Tech Stack:** HTML, CSS
 
-### 6. [IIT-Delhi-Ideathon](https://github.com/VardhanYadav/IIT-Delhi-Ideathon)
+### 6. [Sentiment Anaylsis](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
-[![IIT-Delhi-Ideathon](https://img.shields.io/github/languages/top/VardhanYadav/IIT-Delhi-Ideathon)](https://github.com/VardhanYadav/IIT-Delhi-Ideathon)
+[![Sentiment Anaylsis on Twitter Dataset](https://img.shields.io/github/languages/top/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
 *   Building innovative solutions like the Health Risk Management System to empower individuals with data-driven health insights.
 *   Passionate about leveraging technology to enhance healthcare decision-making.
