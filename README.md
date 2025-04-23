@@ -30,6 +30,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   Provides the comparisions between the policies and insights to the users.
 *   As an Evaluation, also provides a report to the user.
 *   **Tech Stack:** Jupyter Notebook, Tableau, HTML, CSS, ReportLab, ReactJS
+*   *Project Link*: https://vy1691-hrms-risk-score-calculator.hf.space/
 
   
 ### 3. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
