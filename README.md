@@ -46,7 +46,9 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 4. [Movie-Rating-and-Review-System](https://github.com/VardhanYadav/Movie-Rating-and-Review-System)
 
-[![Movie-Rating-and-Review-System](https://img.shields.io/github/languages/top/VardhanYadav/Movie-Rating-and-Review-System)](https://github.com/VardhanYadav/Movie-Rating-and-Review-System)
+![JavaScript](https://img.shields.io/badge/JavaScript-41.6%25-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-13.6%25-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-44.8%25-blueviolet?style=flat&logo=css3)
 
 *   A user-friendly platform for discovering and exploring movies.
 *   Built with HTML, CSS, and JavaScript, leveraging the TMDb API.
@@ -54,7 +56,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 5. [Sentiment Anaylsis on Twitter Dataset](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
-[![Sentiment Anaylsis on Twitter Dataset](https://img.shields.io/github/languages/top/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
+![Python](https://img.shields.io/badge/Python-23.4%25-blue?style=flat&logo=python)
 
 *   The provided ML model works on a given Twitter dataset that distinguishes the comments as a positive one or a negative one.
 *   Passionate about leveraging technology to enhance decision-making over the Twitter dataset for classifications.
