@@ -38,7 +38,10 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 3. [Energy-Consumption-Tracking-System](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
 
-[![Energy-Consumption-Tracking-System](https://img.shields.io/github/languages/top/VardhanYadav/Energy-Consumption-Tracking-System)](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
+![JavaScript](https://img.shields.io/badge/JavaScript-39.3%25-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-26.6%25-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-24.9%25-blueviolet?style=flat&logo=css3)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-39.3%25-F37626?style=flat&logo=jupyter)
 
 *   An energy consumption tracking system for monitoring and optimizing energy usage across diverse sources.
 *   Promotes a sustainable future by providing insights into energy consumption patterns.
