@@ -56,7 +56,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 5. [Sentiment Anaylsis on Twitter Dataset](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
-![Python](https://img.shields.io/badge/Python-23.4%25-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-100.0%25-blue?style=flat&logo=python)
 
 *   The provided ML model works on a given Twitter dataset that distinguishes the comments as a positive one or a negative one.
 *   Passionate about leveraging technology to enhance decision-making over the Twitter dataset for classifications.
@@ -64,7 +64,9 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 6. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
 
-![HTML](https://img.shields.io/badge/HTML-100.0%25-orange?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-40.6%25-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-24.4%25-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-35.0%25-blueviolet?style=flat&logo=css3)
 
 *   It visualizes student spending data to identify patterns in how students manage their basic necessities.
 *   Explores factors like monthly budget, food expenditure, and preferred food types.
