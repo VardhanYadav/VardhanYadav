@@ -10,7 +10,9 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 1. [City_Cleanliness_Prediction](https://github.com/VardhanYadav/City_Cleanliness_Prediction)
 
-![Python](https://img.shields.io/badge/Python-100.0%25-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-68.6%25-blue?style=flat&logo=python)
+![PyCharm](https://img.shields.io/badge/PyCharm-25.1%25-21D789?style=flat&logo=pycharm)
+![Streamlit](https://img.shields.io/badge/Streamlit-6.3%25-FF4B4B?style=flat&logo=streamlit)
 
 *   This project was pitched at BuzzOnEarth Hackathon organised by IIT Kanpur, co-powered by INTEL, which made it to the top 10 out of 2500+ teams.
 *   It predicts the cleanliness score which is based on multiple cleanliness factors for the upcoming year (currently 2024) based on data from 2016 onwards.
