@@ -33,16 +33,8 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   **Tech Stack:** Jupyter Notebook, Tableau, HTML, CSS, ReportLab, ReactJS
 *   *Project Link*: https://vy1691-hrms-risk-score-calculator.hf.space/
 
-  
-### 3. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
 
-![HTML](https://img.shields.io/badge/HTML-100.0%25-orange?style=flat&logo=html5)
-
-*   It visualizes student spending data to identify patterns in how students manage their basic necessities.
-*   Explores factors like monthly budget, food expenditure, and preferred food types.
-*   **Tech Stack:** Tableau, HTML, CSS, PowerBI
-
-### 4. [Energy-Consumption-Tracking-System](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
+### 3. [Energy-Consumption-Tracking-System](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
 
 [![Energy-Consumption-Tracking-System](https://img.shields.io/github/languages/top/VardhanYadav/Energy-Consumption-Tracking-System)](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
 
@@ -50,7 +42,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   Promotes a sustainable future by providing insights into energy consumption patterns.
 *   **Tech Stack:** Jupyter Notebook
 
-### 5. [Movie-Rating-and-Review-System](https://github.com/VardhanYadav/Movie-Rating-and-Review-System)
+### 4. [Movie-Rating-and-Review-System](https://github.com/VardhanYadav/Movie-Rating-and-Review-System)
 
 [![Movie-Rating-and-Review-System](https://img.shields.io/github/languages/top/VardhanYadav/Movie-Rating-and-Review-System)](https://github.com/VardhanYadav/Movie-Rating-and-Review-System)
 
@@ -58,13 +50,21 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   Built with HTML, CSS, and JavaScript, leveraging the TMDb API.
 *   **Tech Stack:** HTML, CSS
 
-### 6. [Sentiment Anaylsis on Twitter Dataset](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
+### 5. [Sentiment Anaylsis on Twitter Dataset](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
 [![Sentiment Anaylsis on Twitter Dataset](https://img.shields.io/github/languages/top/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)](https://github.com/VardhanYadav/Sentiment-Analysis-on-Twitter-Dataset)
 
 *   The provided ML model works on a given Twitter dataset that distinguishes the comments as a positive one or a negative one.
 *   Passionate about leveraging technology to enhance decision-making over the Twitter dataset for classifications.
 *   **Tech Stack:** Python
+
+### 6. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
+
+![HTML](https://img.shields.io/badge/HTML-100.0%25-orange?style=flat&logo=html5)
+
+*   It visualizes student spending data to identify patterns in how students manage their basic necessities.
+*   Explores factors like monthly budget, food expenditure, and preferred food types.
+*   **Tech Stack:** Tableau, HTML, CSS, PowerBI
 
 ## 🛠️ Technologies & Skills
 
