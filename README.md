@@ -10,7 +10,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 1. [City_Cleanliness_Prediction](https://github.com/VardhanYadav/City_Cleanliness_Prediction)
 
-[![City_Cleanliness_Prediction](https://img.shields.io/github/languages/top/VardhanYadav/City_Cleanliness_Prediction)](https://github.com/VardhanYadav/City_Cleanliness_Prediction)
+![Python](https://img.shields.io/badge/Python-100.0%25-blue?style=flat&logo=python)
 
 *   This project was pitched at BuzzOnEarth Hackathon organised by IIT Kanpur, co-powered by INTEL, which made it to the top 10 out of 2500+ teams.
 *   It predicts the cleanliness score which is based on multiple cleanliness factors for the upcoming year (currently 2024) based on data from 2016 onwards.
@@ -20,7 +20,10 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 2. [Health-Risk-Management-System](https://github.com/VardhanYadav/Health-Risk-Management-System)
 
-[![Health-Risk-Management-System](https://img.shields.io/github/languages/top/VardhanYadav/Health-Risk-Management-System)](https://github.com/VardhanYadav/Health-Risk-Management-System)
+![Python](https://img.shields.io/badge/Python-23.4%25-blue?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-20.0%25-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-28.2%25-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-28.4%25-blueviolet?style=flat&logo=css3)
 
 *   An advanced tool designed to predict, analyze, and manage potential health risks for individuals by evaluating their risk scores for self analysis.
 *   Leverages personal, medical, and environmental data to provide comprehensive risk assessments.
@@ -33,7 +36,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
   
 ### 3. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
 
-[![Monthly-Expense-Management-of-a-Student](https://img.shields.io/github/languages/top/VardhanYadav/Monthly-Expense-Management-of-a-Student)](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
+![HTML](https://img.shields.io/badge/HTML-100.0%25-orange?style=flat&logo=html5)
 
 *   It visualizes student spending data to identify patterns in how students manage their basic necessities.
 *   Explores factors like monthly budget, food expenditure, and preferred food types.
