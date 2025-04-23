@@ -22,10 +22,11 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 2. [Health-Risk-Management-System](https://github.com/VardhanYadav/Health-Risk-Management-System)
 
-![Python](https://img.shields.io/badge/Python-23.4%25-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-20.4%25-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20.0%25-yellow?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-28.2%25-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-28.4%25-blueviolet?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-23.4%25-blueviolet?style=flat&logo=css3)
+![Tableau](https://img.shields.io/badge/Tableau-8.0%25-E97627?style=flat&logo=tableau)
 
 *   An advanced tool designed to predict, analyze, and manage potential health risks for individuals by evaluating their risk scores for self analysis.
 *   Leverages personal, medical, and environmental data to provide comprehensive risk assessments.
@@ -67,9 +68,11 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 
 ### 6. [Monthly-Expense-Management-of-a-Student](https://github.com/VardhanYadav/Monthly-Expense-Management-of-a-Student)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-40.6%25-yellow?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20.6%25-yellow?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-24.4%25-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-35.0%25-blueviolet?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-25.0%25-blueviolet?style=flat&logo=css3)
+![Tableau](https://img.shields.io/badge/Tableau-10.0%25-E97627?style=flat&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power%20BI-10.0%25-F2C811?style=flat&logo=powerbi)
 
 *   It visualizes student spending data to identify patterns in how students manage their basic necessities.
 *   Explores factors like monthly budget, food expenditure, and preferred food types.
