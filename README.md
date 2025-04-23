@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Vardhan Yadav
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VardhanYadav&theme=dark)](https://git.io/streak-stats)
-
 A passionate developer from Uttar Pradesh with a keen interest in building innovative solutions and leveraging technology to solve real-world problems. I'm particularly interested in data mining, data analytics, web development, and creating tools that empower individuals to make informed decisions.
 
 ## 💻 Tech Stack:
