@@ -20,7 +20,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   **Tech Stack:** Python 3, PyCharm, Streamlit
 *   Project link: https://atharvasingh07-cleanistcity-hackathon-iitkanpur-main-mmbaf2.streamlit.app/
 
-### 2. [Health-Risk-Management-System](https://github.com/VardhanYadav/Health-Risk-Management-System)
+### 2. [Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser](https://github.com/VardhanYadav/Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser))
 
 ![Python](https://img.shields.io/badge/Python-20.4%25-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20.0%25-yellow?style=flat&logo=javascript)
@@ -34,7 +34,8 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   Provides the comparisions between the policies and insights to the users.
 *   As an Evaluation, also provides a report to the user.
 *   **Tech Stack:** Jupyter Notebook, Tableau, HTML, CSS, ReportLab, ReactJS
-*   *Project Link*: https://vy1691-hrms-risk-score-calculator.hf.space/
+*   *ML Link*: https://vy1691-hrms-risk-score-calculator.hf.space/
+*   *BI Link*: https://public.tableau.com/app/profile/rehmat.singh.chawla/viz/HRMS_Viz/Dashboard1?publish=yes
 
 
 ### 3. [Energy-Consumption-Tracking-System](https://github.com/VardhanYadav/Energy-Consumption-Tracking-System)
