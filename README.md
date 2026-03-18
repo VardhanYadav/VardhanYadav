@@ -20,7 +20,7 @@ A passionate developer from Uttar Pradesh with a keen interest in building innov
 *   **Tech Stack:** Python 3, PyCharm, Streamlit
 *   Project link: https://atharvasingh07-cleanistcity-hackathon-iitkanpur-main-mmbaf2.streamlit.app/
 
-### 2. [Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser](https://github.com/VardhanYadav/Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser))
+### 2. [Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser](https://github.com/VardhanYadav/Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser)
 
 ![Python](https://img.shields.io/badge/Python-20.4%25-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20.0%25-yellow?style=flat&logo=javascript)
